@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<theme name="una-theme" screenscaling="1" uiscaling="1">
+  <authors>
+    <author name="Una Ada" url="https://xn--z7x.dev"/>
+  </authors>
+  <fonts>
+    <font id="default" font="Aseprite" />
+    <font id="mini" font="Aseprite Mini" />
+  </fonts>
+  <dimensions></dimensions>
+  <colors>
+    <color id="wines" value="#703d41" />
+    <color id="candy" value="#de2136" />
+    <color id="lotus" value="#e0c1bf" />
+    <color id="shoyu" value="#46302a" />
+    <color id="baked" value="#d68067" />
+    <color id="reeds" value="#dccca1" />
+    <color id="olive" value="#2e2d1c" />
+    <color id="chive" value="#555f47" />
+    <color id="grass" value="#264d39" />
+    <color id="foamy" value="#729a89" />
+    <color id="plush" value="#a2c9cb" />
+    <color id="coral" value="#145c62" />
+    <color id="royal" value="#0e2d31" />
+    <color id="berry" value="#2a2858" />
+    <color id="lilac" value="#b2adcc" />
+    <color id="black" value="#111111" />
+    <color id="black-alt" value="#161718" />
+  </colors>
+  <parts></parts>
+  <styles></styles>
+</theme>
