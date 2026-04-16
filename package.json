@@ -1,0 +1,21 @@
+{
+  "name": "una-theme",
+  "displayName": "Una's Theme",
+  "description": "Una's Theme",
+  "version": "1.0.0",
+  "author": {
+    "name": "Una Ada",
+    "email": "una@xn--z7x.dev",
+    "url": "https://xn--z7x.dev/"
+  },
+  "publisher": "una",
+  "license": "MIT",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      { "id": "una-theme", "path": "." }
+    ]
+  }
+}
